@@ -1,0 +1,43 @@
+﻿Build started 10/2/2015 2:27:00 PM.
+     1>Project "C:\Users\class\Documents\Visual Studio 2013\Projects\Roguelike\Roguelike\Roguelike.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\class\Documents\Visual Studio 2013\Projects\Roguelike\\base_materials\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Actor.cpp ActorDef.cpp Cell.cpp Dice.cpp helper.cpp main.cpp Message.cpp MessageLog.cpp Monster.cpp Pickup.cpp PickupDef.cpp Player.cpp Point.cpp TileLibrary.cpp World.cpp
+         World.cpp
+         TileLibrary.cpp
+         Point.cpp
+         Player.cpp
+         PickupDef.cpp
+         Pickup.cpp
+         Monster.cpp
+         MessageLog.cpp
+         Message.cpp
+         main.cpp
+         helper.cpp
+         Dice.cpp
+         Cell.cpp
+         ActorDef.cpp
+         Actor.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\class\Documents\Visual Studio 2013\Projects\Roguelike\Debug\Roguelike.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\class\Documents\Visual Studio 2013\Projects\Roguelike\\base_materials\lib" tilelibd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\class\Documents\Visual Studio 2013\Projects\Roguelike\Debug\Roguelike.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\class\Documents\Visual Studio 2013\Projects\Roguelike\Debug\Roguelike.lib" /MACHINE:X86 Debug\Actor.obj
+         Debug\ActorDef.obj
+         Debug\Cell.obj
+         Debug\Dice.obj
+         Debug\helper.obj
+         Debug\main.obj
+         Debug\Message.obj
+         Debug\MessageLog.obj
+         Debug\Monster.obj
+         Debug\Pickup.obj
+         Debug\PickupDef.obj
+         Debug\Player.obj
+         Debug\Point.obj
+         Debug\TileLibrary.obj
+         Debug\World.obj
+            Creating library C:\Users\class\Documents\Visual Studio 2013\Projects\Roguelike\Debug\Roguelike.lib and object C:\Users\class\Documents\Visual Studio 2013\Projects\Roguelike\Debug\Roguelike.exp
+         Roguelike.vcxproj -> C:\Users\class\Documents\Visual Studio 2013\Projects\Roguelike\Debug\Roguelike.exe
+     1>Done Building Project "C:\Users\class\Documents\Visual Studio 2013\Projects\Roguelike\Roguelike\Roguelike.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:36.22
